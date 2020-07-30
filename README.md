@@ -1,0 +1,2 @@
+# Government-Expenditure-Project
+The government's role in economic growth has been an issue since way back with the perception that, for sustainable development and efficient output, the government's role in economic policies should be reduced. Given this fiscal scenario, there is a need to identify the relationship between GDP, Government Expenditure on the two sectors, and how they relate to growth of GDP in Kenya's economy. 
