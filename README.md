@@ -1,14 +1,15 @@
 # A Data Analysis and Identifying the relationship between GDP, Government Expenditure  and how they relate with the Health and Education sectors, July 30th 2020. .
 
-By ###David Muna Mwangi
-###Maurice Masila Kimanzi
-###Leah Venessa Lipesa
-###Biko Mandera Mwangi
-###Shirley Ddaiddo
-###Mercy Gichuhi
-###Molly Abisage
-###Vicky Mutua
-###Mariam Mupa Mmbetsa
+By David Muna Mwangi,
+Maurice Masila Kimanzi,
+Leah Venessa Lipesa,
+Biko Mandera Mwangi,
+Shirley Ddaiddo,
+Mariam Mupa Mmbetsa
+Mercy Gichuhi,
+Molly Abisage,
+Vicky Mutua.
+
 
 # Description
 
