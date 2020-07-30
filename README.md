@@ -1,4 +1,4 @@
-# A Data Analysis and Report Identifying the relationship between GDP, Government Expenditure  and how they relate with the Health and Education sectors, July 30th 2020. .
+# A Data Analysis and Report Identifying the relationship between GDP, Government Expenditure  and how they relate with the Health and Education Sectors, July 30th 2020. .
 
 By David Muna Mwangi,
 Maurice Masila Kimanzi,
